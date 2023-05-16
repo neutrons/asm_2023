@@ -1,0 +1,16 @@
+__pycache__/*
+*.pyc
+*~
+.ipynb*
+.coverage
+/cover/*
+.DS_Store*
+/dist/*
+/build/*
+.cache/*
+.idea/workspace.xml
+.idea*
+build/*
+dist/*
+.pytest_cache/*
+.idea/*
