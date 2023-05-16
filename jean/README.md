@@ -23,6 +23,7 @@ notebooks will be to show the interest of using widgets and how easy it is - Han
  * numpy
  * pillow
  * ipywe
+ * lmfit
 
 **structure**
 
