@@ -17,10 +17,12 @@ notebooks will be to show the interest of using widgets and how easy it is - Han
 
 **library needed in the conda environment:**
 
-matplotlib
-jupyter
-ipywidgets (usually come for free with jupyter)
-numpy
+ * matplotlib
+ * jupyter
+ * ipywidgets (usually come for free with jupyter)
+ * numpy
+ * pillow
+ * ipywe
 
 **structure**
 
