@@ -27,4 +27,6 @@ notebooks will be to show the interest of using widgets and how easy it is - Han
 
 **structure**
 
-data folder will contain 2 folders, one for HFIR, one for SNS
+ * *ASM_2023.pptx* are the slides presented during the lecture
+ * *exercises* contains the notebooks and the data for the hands-on exercises
+ * *advanced_notebooks* contains the notebooks that will demo without any hands-on exercises. You can use those later on to figure out how things are implemented. 
