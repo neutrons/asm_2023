@@ -1,19 +1,14 @@
-Ideas for talks
+**Introduction**
 
-* using HFIR CT data as an example, I will show a simple notebooks with no widgets and how the developer needs to modify the content of the cells 
-in order to analyze the data. And then another notebook with some simple widgets and how it boost the analysis process. The goal of this first 2
-notebooks will be to show the interest of using widgets and how easy it is - Hands on possible at that stage
-- link to web page listing the wigets available 
-- maybe show topaz notebook with only widgets (used to create a config file)
+This lecture focuses on the power of adding widgets to your notebooks to bring interactivity and reduce user input errors while using them.
 
-* using SNS data, show a more complex analysis of data using widgets + PyQt interface - no Hands on here
+Plan of the lecture
 
-* show examples of what can be done when combining notebooks and PyQt using analysis.sns.gov and jupyter notebooks
-    - good example of notebooks could be: 
-          * profile
-          * registration
-          * panoramic stiching
-          * 
+1. Quick introduction of the imaging technique and the imaging experiment beam lines at ORNL
+2. Demo of basic notebook performing some basic imaging pre-processing (cropping)
+3. Demo of same notebook using widgets
+4. Improve version of that same notebook
+5. Demo of more advanced notebooks using widgets
 
 **library needed in the conda environment:**
 
@@ -25,7 +20,7 @@ notebooks will be to show the interest of using widgets and how easy it is - Han
  * ipywe
  * lmfit
 
-**structure**
+**Structure**
 
  * *ASM_2023.pptx* are the slides presented during the lecture
  * *exercises* contains the notebooks and the data for the hands-on exercises
